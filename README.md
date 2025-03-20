@@ -1,2 +1,2 @@
-# network-analysis-dave-gibbons
-This is a network analysis of Dave Gibbons Bluesky account.
+# Network Analysis of Dave Gibbons' Bluesky account
+This is a network analysis of Dave Gibbons' Bluesky account.
