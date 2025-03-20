@@ -33,9 +33,9 @@ Using **Social Network Analysis (SNA)** and tools like **Gephi**, I explored:
 ---
 
 ## 🔥 **Key Findings**
-🎭 **Community Clusters Exist**: Groups form around **independent artists, UK creators, and industry professionals**—but also around **ideological leanings**.  
-🌉 **Bridging Nodes Shape Discourse**: Some users (even with **low follower counts**) act as crucial connectors between communities.  
-🔁 **Echo Chambers Are Real—But Not Just Algorithmic**: Users naturally form ideological bubbles, even on a platform that **claims to let us control our own algorithm**.  
+- **Community Clusters Exist**: Groups form around **independent artists, UK creators, and industry professionals**—but also around **ideological leanings**.  
+- **Bridging Nodes Shape Discourse**: Some users (even with **low follower counts**) act as crucial connectors between communities.  
+- **Echo Chambers Are Real—But Not Just Algorithmic**: Users naturally form ideological bubbles, even on a platform that **claims to let us control our own algorithm**.  
 
 ---
 
@@ -48,9 +48,9 @@ This repository contains **processed data from my analysis**, but it is not set 
 ---
 
 ## 🛠️ **Future Research Directions**
-🔍 **How do these dynamics change over time?** (Temporal Analysis)
-🔍 **Do influencers on Bluesky behave differently than on X (Twitter)?** (Comparative Analysis)
-🔍 **Can we design algorithms to **break** echo chambers rather than reinforce them? And would people actually *want* that?**
+- **How do these dynamics change over time?** (Temporal Analysis)
+- **Do influencers on Bluesky behave differently than on X (Twitter)?** (Comparative Analysis)
+- **Can we design algorithms to **break** echo chambers rather than reinforce them? And would people actually *want* that?**
 
 ---
 
